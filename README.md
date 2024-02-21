@@ -29,3 +29,11 @@ https://www.ibm.com/docs/ru/icos/20.1.0?topic=expressions-piecewise-linear-funct
 - VRP
 - https://scipopt.org/doc/html/EXAMPLES.php
 - goal programming
+
+
+
+```mermaid
+graph LR
+  A[ROOT LP x1 = 34.29 x2=14.29 obj = 4285.71] --> B
+  B --> C
+```
